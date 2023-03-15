@@ -1,0 +1,11 @@
+$red : red;
+$green: green; 
+
+p {
+    color: $red;
+
+    span {
+        color: $green;
+        font-weight: bold;
+    }
+}
